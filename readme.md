@@ -12,7 +12,15 @@
 
 
 
-    - Prendo con la mano destra il primo pacchetto di figurine.
+    - Prendo con la mano il primo pacchetto di figurine.
     - Con l'aiuto dell'altra mano apro la bustina e sfilo dal pacchetto le figurine.
-    - Scorro le figurine del paccheto.
-      - ? SE ce
+    - Butto la bustina vuota e mi lascio il mazzetto nella mano.
+    - Prendo la prima figurina e la giro per vedere il numero.
+    - Una volta visto il numero della figurina sfoglio l'album per controllorare se non ce l'ho.
+      - ? SE NON CE L'HO
+          - Stacco la figurina dalla sua carta
+          - Attacco la figurina nell'album
+        - : ALTRIMENTI
+          - Passo alla prossima figurina.
+      - ? Se ce l'ho
+          - Prendo la carta e la metto da parte insieme agli altri doppioni.
